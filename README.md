@@ -136,3 +136,5 @@ senior developer по кодам в GTA
 Сольфеджио для программистов: интервьюер читает тебе вслух код, а ты должен сказать, что этот код делает.
 
 Признавайтесь, кто готовиться к бассейну Школы 21?!
+
+Tutu Tururu Mana Mana Tuturu Tu Mana Mana Tutu Tururu Tururu Tururu Turutu
